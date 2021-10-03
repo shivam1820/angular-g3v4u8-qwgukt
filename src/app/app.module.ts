@@ -24,6 +24,7 @@ import { CartComponent } from './cart/cart.component';
     TopBarComponent,
     ProductListComponent,
     ProductDetailsComponent,
+    CartComponent,
   ],
   bootstrap: [AppComponent],
 })
